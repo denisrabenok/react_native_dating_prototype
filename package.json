@@ -23,7 +23,7 @@
     "react-native-localization": "^2.0.1",
     "react-native-modal-datetime-picker": "^7.4.0",
     "react-native-progress-bar-animated": "^1.0.6",
-    "react-native-reanimated": "^1.0.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-slider": "^0.11.0",
     "react-native-snap-carousel": "^3.7.5",
     "react-native-tab-view": "^2.1.0",
